@@ -1,0 +1,37 @@
+question,answer
+What is artificial intelligence,Artificial intelligence is a field of computer science where machines are designed to perform tasks that normally require human thinking such as reasoning learning and decision making.
+What is machine learning,Machine learning is a method in which computers learn patterns from data and make predictions without being explicitly programmed.
+What is deep learning,Deep learning is a subset of machine learning that uses multi layer neural networks to learn complex patterns in data.
+What is a dataset,A dataset is a collection of labeled or unlabeled data examples used to train test and validate machine learning models.
+What is supervised learning,Supervised learning is a learning method where models are trained with labeled data meaning the correct output is already known.
+What is unsupervised learning,Unsupervised learning uses unlabeled data to find patterns groupings or structures in the dataset.
+What is reinforcement learning,Reinforcement learning is a technique where an agent learns actions by interacting with an environment and receiving rewards or penalties.
+What is overfitting,Overfitting happens when a model learns the training data too well and performs poorly on unseen data because it memorizes patterns instead of learning them.
+What is underfitting,Underfitting occurs when a model is too simple and fails to capture patterns in the data resulting in low accuracy on both training and test sets.
+What is a neural network,A neural network is a computational structure inspired by the human brain made of interconnected layers of nodes that learn patterns from data.
+What is a convolutional neural network,A convolutional neural network is a type of deep learning model used for image tasks such as classification detection and segmentation.
+What is computer vision,Computer vision is a field of AI that enables machines to analyze understand and interpret visual data such as images and videos.
+What is image classification,Image classification is the task of predicting which category an image belongs to using an AI model.
+What is object detection,Object detection identifies objects in an image and draws boxes around them along with labels such as person car or dog.
+What is YOLO,YOLO is a fast object detection model that detects multiple objects in an image in a single forward pass.
+What is OpenCV,OpenCV is an open source computer vision library used for image processing video analysis and AI applications.
+What is data preprocessing,Data preprocessing prepares raw data by cleaning normalizing and transforming it so the model can learn effectively.
+What is normalization,Normalization scales numeric values to a consistent range to improve model training speed and stability.
+What are epochs,Epochs represent how many times the model sees the entire training dataset during training.
+What is a loss function,A loss function measures how wrong the model is during training so the optimizer can adjust the weights.
+What is gradient descent,Gradient descent is an optimization method that updates model weights to reduce the loss function.
+What is accuracy,Accuracy is a metric that measures the percentage of correct predictions made by a model.
+What is precision,Precision measures how many predicted positive results are correct out of all predicted positive results.
+What is recall,Recall measures how many actual positive results were correctly predicted by the model.
+What is a confusion matrix,A confusion matrix is a table that shows correct and incorrect predictions for each class helping evaluate model performance.
+What is data augmentation,Data augmentation creates modified versions of images such as rotated flipped or zoomed images to improve model training.
+What is model deployment,Model deployment is the process of making a trained model available for real world use through APIs or apps.
+What is transfer learning,Transfer learning uses a pre trained model and fine tunes it for a new task saving time and improving performance.
+What is fine tuning,Fine tuning means training a pre trained model on your dataset with a small learning rate to adapt it to your task.
+What is tokenization in NLP,Tokenization splits text into words or subwords so models can understand and process language.
+How does cosine similarity work,Cosine similarity measures how similar two text vectors are by calculating the angle between them smaller angles mean higher similarity.
+What is TF IDF,TF IDF is a text representation technique that measures how important a word is within a document compared to all other documents.
+What is model evaluation,Model evaluation refers to testing model performance using metrics like accuracy precision recall and F1 score.
+Why do we split data into train and test sets,We split data so the model can learn from one portion and be tested on unseen data to check generalization.
+What is a bounding box,A bounding box is a rectangular outline drawn around an object detected in an image.
+What is data labeling,Data labeling means assigning correct tags or annotations to images text or audio for machine learning tasks.
